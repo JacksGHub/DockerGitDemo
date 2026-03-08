@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>hello depuis windows</h1>";
+echo "<h1>hello depuis mac</h1>";
 
 
 ?>
